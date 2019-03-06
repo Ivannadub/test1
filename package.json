@@ -1,0 +1,12 @@
+{
+  "name": "test_task",
+  "version": "1.0.0",
+  "description": "test_task",
+  "directories": {
+    "test": "specs"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "protractor": "5.4.2"
+  }
+}
