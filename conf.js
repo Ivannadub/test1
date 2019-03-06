@@ -2,7 +2,7 @@ exports.config = {
     SELENIUM_PROMISE_MANAGER: 0,
     framework: 'jasmine2',
     seleniumAddress: 'http://localhost:4444/wd/hub',
-    specs: ['./specs/*.js'],
+    specs: ['./test1.spec.js'],
     capabilities: {
         shardTestFiles: true,
         browserName: 'chrome',
